@@ -7,7 +7,7 @@ Keen to delve into emerging fields like AI/ML. <br>
 Creativity overflows into graphic design, fueled by a love<br>
 for drawing, painting and book adventures. 
 
-<img align = "right" alt = "coding" width = "400" src = "https://www.behance.net/gallery/116770475/Animated-illustrations/modules/665796227s">
+<img align = "right" alt = "coding" width = "400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajlaxmishri109) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajlaxmishri109) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@rajlaxmishri109) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/srajlaxmi2002) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@rajlaxmishri109) 
