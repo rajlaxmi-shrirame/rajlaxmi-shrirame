@@ -4,7 +4,8 @@ I am an aspiring computer engineering student.<br>
 Passionate about building a web wonders, UX/UI design<br>
 and unleashing the power of no-code web app development.<br>
 Keen to delve into emerging fields like AI/ML. <br>
-Creativity overflows into graphic design, fueled by a love for drawing, painting and book adventures. 
+Creativity overflows into graphic design, fueled by a love<br>
+for drawing, painting and book adventures. 
 
 <img align = "right" alt = "coding" width = "400" src = "![image](https://github.com/rajlaxmi-shrirame/rajlaxmi-shrirame/assets/96939792/fec4b481-a35f-4aa8-bbed-d2375c2c1c30)
 ">
